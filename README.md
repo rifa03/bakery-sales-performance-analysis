@@ -44,24 +44,23 @@ The analysis followed these steps:
 5. Time-based Analysis
 6. Business Recommendation
 
-
 ## Key Findings
-
 
 ### 1. Sales Trend
 
-Sales increased during specific periods, especially around weekends.
-
+Sales transactions fluctuated throughout January, with several peaks occurring during specific periods, especially around weekends.
 
 ### 2. Best-selling Product
 
 Traditional Baguette was the highest-selling product with 1,253 units.
 
+### 3. Busiest Day of The Week
 
-### 3. Peak Transaction Hours
+Sunday recorded the highest number of transactions with 684 transactions.
+
+### 4. Peak Transaction Hours
 
 The busiest transaction period occurred between 10:00-12:00.
-
 
 ## Business Recommendations
 
