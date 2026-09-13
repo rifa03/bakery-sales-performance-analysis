@@ -73,4 +73,4 @@ The busiest transaction period occurred between 10:00-12:00.
 ## Project Presentation
 
 See:
-presentation/Bakery_Sales_Performance_Analysis.pdf
+[📄 Sales Analysis at The Bakery Presentation](presentation/(ID)%20Sales%20Analysis%20at%20The%20Bakery.pdf)
