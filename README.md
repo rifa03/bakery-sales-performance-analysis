@@ -49,18 +49,23 @@ The analysis followed these steps:
 ### 1. Sales Trend
 
 Sales transactions fluctuated throughout January, with several peaks occurring during specific periods, especially around weekends.
+![Sales Trend](images/sales_trend.png)
 
 ### 2. Best-selling Product
 
 Traditional Baguette was the highest-selling product with 1,253 units.
+![Top Products](images/top_products.png)
 
 ### 3. Busiest Day of The Week
 
 Sunday recorded the highest number of transactions with 684 transactions.
+![Busiest Day](images/busiest_day.png)
 
 ### 4. Peak Transaction Hours
 
 The busiest transaction period occurred between 10:00-12:00.
+![Peak Hours](images/busiest_hour.png)
+
 
 ## Business Recommendations
 
